@@ -7,7 +7,6 @@ params:
   rss: To subscribe to this RSS feed, copy its address and paste it into your
     favorite feed reader.
 
-baseURL: https://5000.brian.dev/
 title: Crostini Snacks
 theme: codelabs
 
