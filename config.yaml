@@ -11,9 +11,6 @@ title: Crostini Snacks
 theme: codelabs
 
 outputs:
-  page : 
-    - html
-    - json
   home: 
     - html
     - json
